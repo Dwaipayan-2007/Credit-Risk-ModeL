@@ -1,0 +1,12 @@
+Credit Risk Prediction model
+
+This is an AI - Powered Credit Risk Prediction model built using Machine Learning and Streamlit. Python libraries like NumPy, 
+Pandas, Matplotlib, Seaborn, and Scikit-learn were used for constructing this model.
+
+This model uses Classification algorithms to predict if a loan is likely to be passed or not and Streamlit is used to create a
+user interface so that a client can enter required details. The model predicts the output with an accuracy of over 70 % 
+by analysing the past records of over 40,000 clients.
+
+Extra Trees Classifier which is an ensemble learning method was decided to construct the model because it randomly groups
+features to create multiple Decision Trees and aggregates them to increase accuracy over datasets containing high noise 
+in order to avoid overfitting over large amount of data to get reliable results.
